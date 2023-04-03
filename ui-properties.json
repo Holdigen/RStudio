@@ -56,6 +56,21 @@
         "Thickness",
         "Transparency",
         "MinTextSize",
-        "MaxTextSize"
+        "MaxTextSize",
+        "AutomaticCanvasSize",
+        "BottomImage",
+        "CanvasPosition",
+        "CanvasSize",
+        "ElasticBehavior",
+        "HorizontalScrollBarInset",
+        "MidImage",
+        "ScrollBarImageColor3",
+        "ScrollBagImageTransparency",
+        "ScrollBarThickness",
+        "ScrollingDirection",
+        "ScrollingEnabled",
+        "TopImage",
+        "VerticalScrollBarInset",
+        "VerticalScrollBarPosition"
     ]
 }
